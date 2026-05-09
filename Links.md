@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-09 14:26 IR
+- 📱 [zyrln-1.4.0.apk](https://github.com/isjeisne/sandbox/raw/main/dl/zyrln-1.4.0.apk) `22.9MB`
+
+- 📥 [zyrln-windows-amd64.exe](https://github.com/isjeisne/sandbox/raw/main/dl/zyrln-windows-amd64.exe) `9.7MB`
+
+---
+
+
 ### 📅 2026-05-09 14:06 IR
 - 📱 [ShirOKhorshid-2026.03.17.apk](https://github.com/isjeisne/sandbox/raw/main/dl/ShirOKhorshid-2026.03.17.apk) `24.0MB`
 
