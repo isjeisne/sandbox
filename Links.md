@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-09 17:27 IR
+- 🗜️ [CrossOver-Portable-3.4.1.exe.zip](https://github.com/isjeisne/sandbox/raw/main/dl/CrossOver-Portable-3.4.1.exe.zip) `67.2MB`
+
+- 🗜️ [CrossOver-Portable-3.4.1.exe.z01](https://github.com/isjeisne/sandbox/raw/main/dl/CrossOver-Portable-3.4.1.exe.z01) `95.0MB`
+
+- 🗜️ [CrossOver-Portable-3.4.1.exe.zip](https://github.com/isjeisne/sandbox/raw/main/dl/CrossOver-Portable-3.4.1.exe.zip) `67.2MB`
+
+- 🗜️ [CrosshairX.zip](https://github.com/isjeisne/sandbox/raw/main/dl/CrosshairX.zip) `72.3MB`
+
+---
+
+
 ### 📅 2026-05-09 14:26 IR
 - 📱 [zyrln-1.4.0.apk](https://github.com/isjeisne/sandbox/raw/main/dl/zyrln-1.4.0.apk) `22.9MB`
 
