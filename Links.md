@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-09 12:19 IR
+- 📱 [SlipNet-v2.5.3-full-arm64-v8a.apk](https://github.com/isjeisne/sandbox/raw/main/dl/SlipNet-v2.5.3-full-release-arm64-v8a.apk) `25.6MB`
+
+---
+
+
 ### 📅 2026-05-08 12:44 IR
 - 🗜️ [oblivion-desktop-win-x64.exe.zip](https://github.com/isjeisne/sandbox/raw/main/dl/oblivion-desktop-win-x64.exe.zip) `19.2MB`
 
