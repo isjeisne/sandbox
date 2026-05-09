@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-10 00:01 IR
+- 📥 [cmake-4.3.2-windows-x86_64.msi](https://github.com/isjeisne/sandbox/raw/main/dl/cmake-4.3.2-windows-x86_64.msi) `36.4MB`
+
+---
+
+
 ### 📅 2026-05-09 17:27 IR
 - 🗜️ [CrossOver-Portable-3.4.1.exe.zip](https://github.com/isjeisne/sandbox/raw/main/dl/CrossOver-Portable-3.4.1.exe.zip) `67.2MB`
 
