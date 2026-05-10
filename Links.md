@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-10 15:43 IR
+- 🗜️ [VSCodiumUserSetup-x64-1.116.02821.exe.zip](https://github.com/isjeisne/sandbox/raw/main/dl/VSCodiumUserSetup-x64-1.116.02821.exe.zip) `31.2MB`
+
+- 🗜️ [VSCodiumUserSetup-x64-1.116.02821.exe.z01](https://github.com/isjeisne/sandbox/raw/main/dl/VSCodiumUserSetup-x64-1.116.02821.exe.z01) `95.0MB`
+
+- 🗜️ [VSCodiumUserSetup-x64-1.116.02821.exe.zip](https://github.com/isjeisne/sandbox/raw/main/dl/VSCodiumUserSetup-x64-1.116.02821.exe.zip) `31.2MB`
+
+---
+
+
 ### 📅 2026-05-10 15:04 IR
 - 📥 [XboxFullScreenExperienceToolSetup-0.9.3-Full.msi](https://github.com/isjeisne/sandbox/raw/main/dl/XboxFullScreenExperienceToolSetup-0.9.3-Full.msi) `59.2MB`
 
