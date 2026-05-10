@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-11 01:03 IR
+- 📥 [subtitles_streaming_dl-2.7.0.xpi](https://github.com/isjeisne/sandbox/raw/main/dl/subtitles_streaming_dl-2.7.0.xpi) `9.3MB`
+
+---
+
+
 ### 📅 2026-05-11 00:43 IR
 - 🗜️ [Hyprland on OpenSUSE Tumbleweed.mp4.zip](https://github.com/isjeisne/sandbox/raw/main/dl/Hyprland%20on%20OpenSUSE%20Tumbleweed.mp4.zip) `93.6MB`
 
