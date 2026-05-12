@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 19:11 IR
+- 🗜️ [die_win64_portable_3.21_x64.zip](https://github.com/isjeisne/sandbox/raw/main/dl/die_win64_portable_3.21_x64.zip) `24.0MB`
+
+---
+
+
 ### 📅 2026-05-11 21:06 IR
 - 📥 [188578458-8171e42b-f36c-44c1-9eb0-506c301d4f16.gif](https://github.com/isjeisne/sandbox/raw/main/dl/188578458-8171e42b-f36c-44c1-9eb0-506c301d4f16.gif) `9.9MB`
 
