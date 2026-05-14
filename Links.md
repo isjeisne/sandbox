@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 17:29 IR
+- 📱 [v2rayNG_2.1.7_arm64-v8a.apk](https://github.com/isjeisne/sandbox/raw/main/dl/v2rayNG_2.1.7_arm64-v8a.apk) `26.8MB`
+
+---
+
+
 ### 📅 2026-05-13 14:43 IR
 - 📥 [zyrln-1.5.1-pre6-windows-amd64.exe](https://github.com/isjeisne/sandbox/raw/main/dl/zyrln-1.5.1-pre6-windows-amd64.exe) `10.9MB`
 
